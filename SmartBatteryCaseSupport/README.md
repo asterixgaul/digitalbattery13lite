@@ -1,5 +1,4 @@
-<b>Smart Battery Case Support</b>
-
+<b>Smart Battery Case Support</b><br>
 Works by combining both device and case charge levels and displays in the statusbar like normal.
 To enable simply turn it on in the settings.
 <br><br>
