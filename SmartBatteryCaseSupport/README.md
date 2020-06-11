@@ -3,6 +3,8 @@
 Works by combining both device and case charge levels and displays in the statusbar like normal.
 To enable simply turn it on in the settings.
 
+
+
 <b>It doesn't update dynamicaly</b>
 
 Currently the combined percentage will only be true when: device percentage goes up or down, or at timer interval (when main device is full)
